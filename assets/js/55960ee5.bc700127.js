@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"design-patterns","permalink":"/my-notes/tags/design-patterns","count":1},{"label":"writing","permalink":"/my-notes/tags/writing","count":1}]')}}]);
