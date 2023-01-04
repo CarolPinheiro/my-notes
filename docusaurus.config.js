@@ -25,7 +25,7 @@ module.exports = {
     navbar: {
       title: 'Carol Pinheiro - Minhas anotações',
       logo: {
-        alt: 'Sibelius Zettelkasten',
+        alt: 'Carol minhas anotações',
         src: 'img/icon-carol.png',
       },
       items: [
@@ -77,7 +77,7 @@ module.exports = {
           path: './docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: ({ locale, versionDocsDirPath, docPath }) => {
-            return `https://github.com/sibelius/zettelkasten/edit/main/${versionDocsDirPath}/${docPath}`;
+            return `https://github.com/carolpinheiro/my-notes/edit/main/${versionDocsDirPath}/${docPath}`;
           },
           editCurrentVersion: true,
           remarkPlugins: [require('mdx-mermaid')],
