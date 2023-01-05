@@ -1,3 +1,12 @@
+---
+slug: /typescript/utility-types
+title: Utility Types
+sidebar_position: 0
+tags:
+  - typescript
+  - node
+---
+
 # Utility Types
 
 Anotações feitas com base na palestra
