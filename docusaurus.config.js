@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Carol Pinheiro - Minhas anotações',
   tagline: 'Carol Pinheiro - Minhas anotações',
-  url: 'http://sibelius.github.io',
+  url: 'http://carolpinheiro.github.io',
   baseUrl: '/my-notes',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
